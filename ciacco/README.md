@@ -62,6 +62,7 @@ Extra common fields:
   - `seconds`
   - `bytes`
   - `time`
+  - `percentage`
 - `aggregationType`: how data will aggreagate by server for the selected span of time:
    - `sum`: values will be summed
    - `snapshot`: values will not be aggregated
